@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.navContainer {
+  width: 60vw;
+  height: 30px;
+}
+.navContainer > ul {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.gridImage {
+  width: 11vw;
+}
+.flexCards {
+  width: 60vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.container {
+  width: 60vw;
+}
+.card {
+  width: 11vw;
+  margin: 1px;
+  text-align: center;
+}
