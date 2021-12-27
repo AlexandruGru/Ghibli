@@ -19,6 +19,9 @@ body {
 .gridImage {
   width: 11vw;
 }
+.bigImg {
+  width: 20vw;
+}
 .flexCards {
   width: 60vw;
   display: flex;
